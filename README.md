@@ -25,7 +25,6 @@ Welcome to our project for **Google Girl Hackathon 2025**! 🎉 This project foc
 📁 AI-Timing-Violation-Predictor/
  ├── 📜 README.md (You're here!)
  ├── 📁 data/ (Training datasets & preprocessing scripts) 
- 
  └── 📜 main.ipynb (google colab for training & testing)
 ```
 
@@ -55,7 +54,7 @@ pip install -r requirements.txt
 
 3️⃣ **Run the project:**
 ```bash
-jupyter notebook main.ipynb
+google colab main.ipynb
 ```
 
 ---
