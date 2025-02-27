@@ -24,12 +24,9 @@ Welcome to our project for **Google Girl Hackathon 2025**! 🎉 This project foc
 ```
 📁 AI-Timing-Violation-Predictor/
  ├── 📜 README.md (You're here!)
- ├── 📁 data/ (Training datasets & preprocessing scripts)
- ├── 📁 models/ (Trained AI models & architectures)
- ├── 📁 scripts/ (Code for feature extraction & analysis)
- ├── 📁 results/ (Graphs, logs & performance metrics)
- ├── 📜 requirements.txt (Dependencies for the project)
- └── 📜 main.ipynb (Jupyter Notebook for training & testing)
+ ├── 📁 data/ (Training datasets & preprocessing scripts) 
+ 
+ └── 📜 main.ipynb (google colab for training & testing)
 ```
 
 ---
@@ -80,34 +77,9 @@ jupyter notebook main.ipynb
 
 ---
 
-## 👥 Team Members
-
-👩‍💻 **[Your Name]**  
-👩‍💻 **[Teammate Name]**  
-👩‍💻 **[Teammate Name]**  
-
-(Feel free to add your LinkedIn/GitHub profiles!)
-
----
-
-## 📢 Contributing
-
-🔹 Fork the repository 🍴
-🔹 Create a new branch 🔀
-🔹 Make your changes 🛠️
-🔹 Submit a Pull Request 🚀
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 📬 Contact
 
-📧 **your-email@example.com**  
-🐙 **GitHub:** [your-username](https://github.com/your-username)
+📧 **your-bspbhaavari@gmail.com**  
+🐙 **GitHub:**-bsp-bhaavari
 
 ✨ *Made with ❤️ for Google Girl Hackathon 2025!* ✨
